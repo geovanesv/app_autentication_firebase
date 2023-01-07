@@ -1,6 +1,4 @@
-# Exemplo de Crud com Firebase
-
-Projeto 100% funciona!
+# Aplicativo de Autenticação e Crud com Firebase
 
 Para testá-lo é necessário criar uma conta gratuíta em https://firebase.google.com/ e preencher os dados do projeto criado em: /lib/data/firebase_consts.dart.
 
@@ -8,13 +6,14 @@ Para testá-lo é necessário criar uma conta gratuíta em https://firebase.goog
 <table>
 <tr>
 <td>
-<img src="login_screen.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/49567926/211121891-dadcaecf-a4a3-460a-b599-7d4344100d7f.png" width="280">
+</td>
+
+<td>
+<img src="https://user-images.githubusercontent.com/49567926/211121893-2b75ff0c-a214-48d1-8e3f-6c861b3bc909.png" width="280"> 
 </td>
 <td>
-<img src="product_grid_screen.jpg" width="250"> 
-</td>
-<td>
-<img src="cart_screen.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/49567926/211121895-43613538-1df4-4d58-b95d-22d50a77fd56.png" width="280">
 </td>
 </tr>
 </table>
